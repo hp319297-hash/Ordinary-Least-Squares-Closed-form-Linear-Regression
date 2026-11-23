@@ -87,6 +87,3 @@ SVD in practice.
 
 ---
 
-## THEORY
-
-OLS minimizes squared residuals; closed-form solution requires invertible Gram matrix. 
